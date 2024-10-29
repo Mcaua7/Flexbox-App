@@ -59,7 +59,6 @@ boxMiddleRight: {
     backgroundColor: 'rgb(56, 182, 255)',
     justifyContent:'space-around',
     alignItems: 'center',
-    alignContent: 'flex-start',
     borderTopWidth: 6,
     borderTopColor:'rgb(67, 63, 62)',
     
@@ -70,8 +69,8 @@ boxTopRight: {
 },
 textStyle: {
     transform: [{rotate: '270deg'}],
-    fontSize: 60,
-    letterSpacing: 30,
+    fontSize: 55,
+    letterSpacing: 25,
     fontWeight: 'bold',
     width: '100%',
 }
